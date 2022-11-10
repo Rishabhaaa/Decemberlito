@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lito1.iml" filepath="$PROJECT_DIR$/.idea/modules/Lito1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lito1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lito1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lito1.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lito1.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lito1.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lito1.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1019766013/Lito1.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1019766013/Lito1.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1019766013/Lito1.react-native-community_masked-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1019766013/Lito1.react-native-community_masked-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1019766013/Lito1.react-native-community_masked-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1019766013/Lito1.react-native-community_masked-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1890472570/Lito1.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1890472570/Lito1.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1890472570/Lito1.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1890472570/Lito1.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1890472570/Lito1.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1890472570/Lito1.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1784543604/Lito1.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1784543604/Lito1.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1784543604/Lito1.react-native-linear-gradient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1784543604/Lito1.react-native-linear-gradient.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1784543604/Lito1.react-native-linear-gradient.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1784543604/Lito1.react-native-linear-gradient.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1753798814/Lito1.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1753798814/Lito1.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/624342115/Lito1.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/624342115/Lito1.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/624342115/Lito1.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/624342115/Lito1.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/624342115/Lito1.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/624342115/Lito1.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1066228677/Lito1.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1066228677/Lito1.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1066228677/Lito1.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1066228677/Lito1.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1066228677/Lito1.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1066228677/Lito1.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/918775708/Lito1.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/918775708/Lito1.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/918775708/Lito1.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/918775708/Lito1.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/918775708/Lito1.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/918775708/Lito1.react-native-vector-icons.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-413221841/Lito1.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-413221841/Lito1.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-413221841/Lito1.react-native-video.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-413221841/Lito1.react-native-video.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-413221841/Lito1.react-native-video.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-413221841/Lito1.react-native-video.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1807286099/Lito1.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1807286099/Lito1.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1807286099/Lito1.react-native-webview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1807286099/Lito1.react-native-webview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1807286099/Lito1.react-native-webview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1807286099/Lito1.react-native-webview.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1879713239/Lito1.react-native-youtube.iml" filepath="$PROJECT_DIR$/.idea/modules/1879713239/Lito1.react-native-youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1879713239/Lito1.react-native-youtube.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1879713239/Lito1.react-native-youtube.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1879713239/Lito1.react-native-youtube.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1879713239/Lito1.react-native-youtube.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-238915891/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-238915891/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-238915891/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-238915891/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-238915891/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-238915891/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
