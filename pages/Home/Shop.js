@@ -3,7 +3,7 @@ import {View, Text,TouchableOpacity,Image,TextInput,ScrollView,SafeAreaView,Dime
 import Header from "../../Component/Header";
 import Footer from "../../Component/Footer";
 import Footer2 from "../../Component/Footer2";
-import Listshow from '../../pages/Home/Copmonents/ListShow';
+import Listshow from './Copmonents/ListShow';
 import Whatsapp from "../../Component/Whatsapp";
 
 import Offerheader from "../../Component/Offerheader";

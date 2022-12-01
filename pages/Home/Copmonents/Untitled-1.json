@@ -1,0 +1,23 @@
+[
+    {
+        "category_id": 1,
+        "created_at": "2022-11-09T11:32:45.328Z",
+        "id": 1,
+        "name": "Men's Shoes",
+        "updated_at": "2022-11-09T11:32:45.328Z"
+    },
+    {
+        "category_id": 1,
+        "created_at": "2022-11-10T07:11:57.665Z",
+        "id": 2,
+        "name": "Men's Wallets",
+        "updated_at": "2022-11-10T07:12:35.771Z"
+    },
+    {
+        "category_id": 1,
+        "created_at": "2022-11-10T07:13:03.005Z",
+        "id": 3,
+        "name": "Men's Belts",
+        "updated_at": "2022-11-10T07:13:03.005Z"
+    }
+]

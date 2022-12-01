@@ -3,7 +3,7 @@ import Header from "../../Component/Header";
 import Footer from "../../Component/Footer";
 import OrderTracking from "../Home/Copmonents/OrderTracking";
 import WishlistScreen from "../Home/Copmonents/WishlistScreen";
-import Cartshoping from "../Home/Copmonents/Cartshoping";
+import Cartshoping from "../../Component/Cartshoping";
 import { View, FlatList, Text, TouchableOpacity, Image, SafeAreaView, ScrollView, } from "react-native";
 import Whatsapp from "../../Component/Whatsapp";
 
@@ -14,6 +14,7 @@ export default class Shopingcartscreen extends Component {
             activeBt: "OrderTracking",
         }
     }
+
     render() {
         //console.log('show data ',this.props.data)
         return (
@@ -22,15 +23,15 @@ export default class Shopingcartscreen extends Component {
                     <Header onPress={() => this.props.navigation.openDrawer()} />
                     <View style={{ flexDirection: 'row', justifyContent: 'space-between', height: 50, backgroundColor: '#D8D8D8', alignItems: 'center' }}>
                         <TouchableOpacity onPress={() => this.setState({ activeBt: 'Cartshoping' })} style={{ marginLeft: 40 }}>
-                            <Text>Shopping Cart1</Text>
+                            <Text>Shopping Cart</Text>
 
                         </TouchableOpacity>
 
-                        <TouchableOpacity onPress={() => this.setState({ activeBt: 'WishlistScreen' })}>
-                            <Text>Wishlist1</Text>
+                        <TouchableOpacity onPress={() => this.setState({ activeBt: 'WishlistScreen',padding:10})}>
+                            <Text>Wishlist</Text>
 
                         </TouchableOpacity>
-                        <TouchableOpacity onPress={() => this.setState({ activeBt: 'OrderTracking' })}>
+                        <TouchableOpacity onPress={() => this.setState({ activeBt: 'OrderTracking',padding:10 })}>
                             <Text>Order Tracking</Text>
 
                         </TouchableOpacity>
@@ -40,6 +41,7 @@ export default class Shopingcartscreen extends Component {
 
                         </TouchableOpacity>
                     </View>
+                    
 
 
                     {

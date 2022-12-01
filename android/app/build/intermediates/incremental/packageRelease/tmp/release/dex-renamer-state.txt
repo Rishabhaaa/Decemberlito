@@ -1,4 +1,0 @@
-#Thu Nov 03 18:52:32 IST 2022
-base.0=/home/lenovo/Documents/Litoproject-main/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

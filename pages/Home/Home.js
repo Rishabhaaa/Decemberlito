@@ -5,11 +5,11 @@ import Footer from "../../Component/Footer";
 import Footer2 from "../../Component/Footer2";
 import Whatsapp from "../../Component/Whatsapp";
 import Rentscreen from '../RENT/Rentscreen';
-// import VideoPlayer from 'react-native-video-player';
+import VideoPlayer from 'react-native-video-player';
 import { Imagebutton } from 'react-native-image-button-text';
 import SliderLogo from "./Copmonents/SliderLogo";
 import TestimonialSlider from "./Copmonents/TestimonialSlider";
-// import YoutubePlayer from 'react-native-youtube-iframe';
+import YoutubePlayer from 'react-native-youtube-iframe';
 
 const windowWidth = Dimensions.get('window').width;
 const windowHeight = Dimensions.get('window').height;
@@ -261,10 +261,10 @@ export default class Home extends Component {
             <Text style={{ textAlign: "center", fontSize: 15, marginLeft: 12, color: "#807b80", fontWeight: "400", lineHeight: 30 }}>Choose From Hundreds of New Arrivals Everyday.</Text>
           </View>
 
-          {/* <Listshow data={this.state.data} onPress={(val)=>console.log('select item',val)} /> */}
+           <Listshow data={this.state.data} onPress={(val)=>console.log('select item',val)} /> 
 
-          {/* <Listshow data={this.state.data} onPress={(val) => this.props.navigation.navigate('Itemdetailsscreen', { imteData: val })} /> */}
-          <Listshow data={this.state.data} onPress={(val)=>this.props.navigation.navigate('Itemdetailsscreen',{imteData:val})} />
+           <Listshow data={this.state.data} onPress={(val) => this.props.navigation.navigate('Itemdetailsscreen', { imteData: val })} />
+          {/* <Listshow data={this.state.data} onPress={(val)=>this.props.navigation.navigate('',{itemData:val})} /> */}
 
           {/* Top Brand start */}
 
@@ -273,7 +273,7 @@ export default class Home extends Component {
             <Text style={{ textAlign: "center", fontSize: 15, marginLeft: 12, color: "#807b80", fontWeight: "400", lineHeight: 30 }}>Discover All Your Favourite Luxury Brands Under One Roof</Text>
           </View>
 
-
+        
           {/* Sir ka task start */}
           <SliderLogo/>
           {/* Top Brand flatlist start */}
@@ -303,29 +303,28 @@ export default class Home extends Component {
 
 
           {/* Ziniosa  code start  video code  */}
-
           {/* <View style={{ alignItems: "center", marginTop: 30 }}>
             <Text style={{ fontSize: 25, color: "#000" }}>Lito X Influencers</Text>
             <Text style={{ textAlign: "center", fontSize: 15, marginLeft: 12, color: "#000", fontWeight: "400", lineHeight: 30 }}>See Your Favourite Influencers Promote Pre-loved Fashion</Text>
-          </View> */}
+          </View>
 
-          {/* Ziniosa code end */}
-          {/* <FlatList
+          Ziniosa code end
+          <FlatList
             data={[1, 2, 3]}
             renderItem={({ item }) =>
               <View>
                 <VideoPlayer
                   video={{ uri: 'https://file-examples.com/storage/feb2e515cc6339d7ba1ffcd/2017/04/file_example_MP4_480_1_5MG.mp4' }}
-                  //autoplay
+                  // autoplay
                   defaultMuted={true}
                   videoWidth={1600}
                   videoHeight={1000}
                   thumbnail={{ uri: 'https://i.picsum.photos/id/866/1600/900.jpg' }}
                   endThumbnail={require('../../Images/Auction-Banner.jpg')}  // VIDEO END HONE PR YE IMAGE SHOW HOGI
                   showDuration={true}
-                  // controlsTimeout={2000} // 2 sec k liye sickbar visible hogi yha pr
+                  controlsTimeout={2000} // 2 sec k liye sickbar visible hogi yha pr
                   disableControlsAutoHide={true} // sickbar kbhi disable nhi ho uske liye
-                  //defaultMuted={true} //video jb play hogi to wo muted form m play hogi usko hum unmuted bhi kr skte h 
+                  // defaultMuted={true} //video jb play hogi to wo muted form m play hogi usko hum unmuted bhi kr skte h 
                   disableSeek={true} // jo red line ka sickbar aa rha h use hi disable krna hai uske liye
                   pauseOnPress={true}
                 />
@@ -334,7 +333,7 @@ export default class Home extends Component {
 
             }
           /> */}
-                    {/* Ziniosa code end  video code */}
+         
 
           {/* RENT NOW IMAGE */}
 
@@ -350,9 +349,6 @@ export default class Home extends Component {
             <Text style={{ fontSize: 25, color: "#000" }}>{"We've Made a Buzz!"}</Text>
             <Text style={{ textAlign: "center", fontSize: 15, marginLeft: 12, color: "#807b80", fontWeight: "400", lineHeight: 30 }}>Discover All Your Favourite Luxury Brands Under One Roof</Text>
           </View>
-
-          
-
 <SliderLogo/>
 
          

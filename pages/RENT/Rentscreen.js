@@ -2,7 +2,7 @@ import React, { Component } from "react"
 import {View, Text,TouchableOpacity,Image,TextInput,ScrollView,SafeAreaView,Dimensions} from 'react-native';
 import Header from "../../Component/Header";
 import Footer from "../../Component/Footer";
-import Listshow from '../../pages/Home/Copmonents/ListShow';
+import Listshow from '../Home/Copmonents/ListShow';
 import Whatsapp from "../../Component/Whatsapp";
 
 import Offerheader from "../../Component/Offerheader";

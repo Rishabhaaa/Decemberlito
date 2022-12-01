@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.adityaxjha:Android-ScalableVideoView:10e7b4da8b@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/da2c33aaf5aa336218a65ed87a4fed40/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/da2c33aaf5aa336218a65ed87a4fed40/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/da2c33aaf5aa336218a65ed87a4fed40/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/850faaf9266ce16847fe6f6049806b1f/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/850faaf9266ce16847fe6f6049806b1f/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/850faaf9266ce16847fe6f6049806b1f/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
